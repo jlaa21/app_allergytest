@@ -1,0 +1,2614 @@
+
+{
+  "drugs": [
+    {
+      "Nombre medicamento": "Abciximab",
+      "Intraepidérmica (prick)": "0.2-2 mg/ml C",
+      "Intradérmica": "0.2-2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Aceclofenaco (Airtal)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Acenocumarol (Sintrom)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Acetilsalicilato de lisina (Dolomega Inyesprin)",
+      "Intraepidérmica (prick)": "450 mg/ml (equivale a 250 mg/ml de AAS)",
+      "Intradérmica": "0,45-1 mg/ml (equivale a 0,25 mg/ml de AAS)"
+    },
+    {
+      "Nombre medicamento": "Acetilcisteína (Fluimucil)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Acetilcolina",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Acetil-para-aminofenol (paracetamol)",
+      "Intraepidérmica (prick)": "1 mg/ml\n100 mg/ml",
+      "Intradérmica": "0,01-0,1 mg/ml\n1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Aciclovir",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ácido acetilsalicílico (Aspirina)",
+      "Intraepidérmica (prick)": "Ver Acetilsalicilato de lisina",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Ácido ascórbico (vitamina C)",
+      "Intraepidérmica (prick)": "10-50 mg/ml",
+      "Intradérmica": "10-50 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ácido clavulánico",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "20 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ácido clavulánico + amoxicilina (Augmentine)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "20 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ácido folínico (Lederfolin)",
+      "Intraepidérmica (prick)": "3 mg/ml",
+      "Intradérmica": "0.03-0.05 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ácido hialurónico (ADANT)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100-1/10"
+    },
+    {
+      "Nombre medicamento": "Ácido mefenámico (Coslan)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Ácido nalidíxico (Wintomylon)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1 mg/ml P/V (en sol hidroalcohólica)"
+    },
+    {
+      "Nombre medicamento": "Ácido nicotínico (éster bencílico de...)",
+      "Intraepidérmica (prick)": "0.001 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Ácido niflúmico (Niflactol)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Ácido oxolínico (Uritrate)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Ácido pipemídico (Galusan Urisan...)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ácido tranexámico (Amchafibrin)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "1-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ácido valproico (Depakine)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "ACTH",
+      "Intraepidérmica (prick)": "10 UI/ml",
+      "Intradérmica": "0.1 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Actifral D3",
+      "Intraepidérmica (prick)": "600.000 UI/ml",
+      "Intradérmica": "6.000 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Adalimumab",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": "5-50 mg/ml\n0,05 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Adrenalina (Epinefrina)",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "0.001-0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Alcohol bencílico",
+      "Intraepidérmica (prick)": "TC (10 mg/ml)",
+      "Intradérmica": "0.1-0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Alfentanilo (Limicen)",
+      "Intraepidérmica (prick)": "0.5 mg/ml",
+      "Intradérmica": "0,05-0,005 mg/ml\n0,05 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Alopurinol (Zyloric)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Alprostadil (Caverject)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "Dil 1/1.000"
+    },
+    {
+      "Nombre medicamento": "Hidróxido de aluminio",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Amalgama",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "Dil 1/100-1/10"
+    },
+    {
+      "Nombre medicamento": "Amaranto",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ambroxol (Mucosan)",
+      "Intraepidérmica (prick)": "7.5 mg/ml",
+      "Intradérmica": "0.075-0.75 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Amidotrizoato de meglumina (Gastrografin Trazograf Urografin 76%)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000, 1/100, 1/10, 1/1\n1/10"
+    },
+    {
+      "Nombre medicamento": "Amikacina (Biclin)",
+      "Intraepidérmica (prick)": "250 mg/ml",
+      "Intradérmica": "0.25-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Aminofilina (Eufilina)",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Clorhidrato de amiodarona",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "0.05-0.5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Amiodarona (Trangorex)",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": "0.05-0.5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Clorhidrato de amitriptilina (Triptizol)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Amlodipino (Norvas Astudal)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Persulfato de amonio",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Amoxicilina (Clamoxyl)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "20 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ampicilina (Gobemicina Binotal...)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "20 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Anakinra",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Anectine (cloruro de suxametonio = succinilcolina)",
+      "Intraepidérmica (prick)": "10 mg/ml\n50 mg/ml",
+      "Intradérmica": "0,05-0,5-5 mg/ml\n0,1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Sulfato de anfetamina (Centramina)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Anfotericina (Fungizona)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000, 1/100"
+    },
+    {
+      "Nombre medicamento": "Vacuna antigripal",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000, 1/100"
+    },
+    {
+      "Nombre medicamento": "Antineurina",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "Dil 1/50"
+    },
+    {
+      "Nombre medicamento": "Suero antirrábico",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Inmunoglobulina antitetánica",
+      "Intraepidérmica (prick)": "500 UI/ml",
+      "Intradérmica": "10-50 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Vacuna antitetánica",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000, 1/100"
+    },
+    {
+      "Nombre medicamento": "Articaína (Ultracain)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Artrodif",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "L-asparaginasa",
+      "Intraepidérmica (prick)": "5-50 u/ml",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Atenolol (Tenormin)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "--"
+    },
+    {
+      "Nombre medicamento": "Besilato de atracurio (Tracrium)",
+      "Intraepidérmica (prick)": "10 mg/ml\n1 mg/ml",
+      "Intradérmica": "0,1-0,001\n0,01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Atropina",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "0.001-0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Azatioprina sódica (Inmurel)",
+      "Intraepidérmica (prick)": "",
+      "Intradérmica": "0.01-0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Azitromicina (Zitromax)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Azlocilina (Securopen)",
+      "Intraepidérmica (prick)": "10-100 mg/ml",
+      "Intradérmica": "0.1 - 1 - 10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Aztreonam (Azactam)",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Vitamina B1 (Benerva)",
+      "Intraepidérmica (prick)": "100 mg/ml\n1-10 mg/ml",
+      "Intradérmica": "1 mg/ml\n1-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Vitamina B6 (Benadon)",
+      "Intraepidérmica (prick)": "150 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Vitamina B12 = cianocobalamina (Optovite B12)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "5-50 µg/ml\n1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Bacampicilina (Penglobe)",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Basiliximab",
+      "Intraepidérmica (prick)": "4 mg/ml",
+      "Intradérmica": "0.4 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Bemiparina",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000-1/10\n1/10 (no inmediata)"
+    },
+    {
+      "Nombre medicamento": "Cloruro de benzalconio (Armil)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "0.001-0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Benzatina (diacetato de dibenciletilendiamina) (en agua bidestilada)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Benzoato de sodio",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Benzocaína (Dentispray-Gatricin)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Betametasona (Celestone)",
+      "Intraepidérmica (prick)": "4 mg/ml",
+      "Intradérmica": "0.04-0.4 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Bifonazol en polvo (Mycospor)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Billigrafin",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/50"
+    },
+    {
+      "Nombre medicamento": "Lactato de biperideno (Akineton)",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "0.005-0.05 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Bivalirudina",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000, 1/100"
+    },
+    {
+      "Nombre medicamento": "Bomoftaleína",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Bromuro de ipratropio (Atrovent)",
+      "Intraepidérmica (prick)": "125 mg/ml",
+      "Intradérmica": "1.25 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Bromuro de pancuronio (Pavulon)",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "0,002-0,2 mg/ml\n0,02 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Budesonida (Pulmicort)",
+      "Intraepidérmica (prick)": "TC = 0.5 mg/ml",
+      "Intradérmica": "Dil 1/100"
+    },
+    {
+      "Nombre medicamento": "Buflomedil (Lofton)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Bupivacaína",
+      "Intraepidérmica (prick)": "TC (0.5% = 5 mg/ml)",
+      "Intradérmica": "0.5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Buprenorfina (Buprex)",
+      "Intraepidérmica (prick)": "0.3 mg/ml",
+      "Intradérmica": "0.003-0.3"
+    },
+    {
+      "Nombre medicamento": "Butilbromuro de hioscina",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Vitamina C (ácido ascórbico)",
+      "Intraepidérmica (prick)": "10-50 mg/ml",
+      "Intradérmica": "10-50 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cafeína",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "Dil 1/10"
+    },
+    {
+      "Nombre medicamento": "Calcifediol (Hidroferol)",
+      "Intraepidérmica (prick)": "0.1 mg/ml",
+      "Intradérmica": "0.001 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Calcitonina",
+      "Intraepidérmica (prick)": "100 UI/ml",
+      "Intradérmica": "10-1 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Calcio – Sandoz",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "10-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Captopril (Capoten)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Carbamazepina (Tegretol) 1 comp 200 mg + 10 ml PBS",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "1-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Carbenicilina (Pyopen)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Carbimazol (Neo-Tomizol)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "--"
+    },
+    {
+      "Nombre medicamento": "Carbocisteína (Viscoteina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Carboplatino",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.01 - 0.1 - 1 - 10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Carboximetilcelulosa o Carmelosa (Cellufresh)",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "0.05-0.005 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Carteolol (Elebloc Mikelan)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.02 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Catomicina",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefaclor (Ceclor)",
+      "Intraepidérmica (prick)": "20 mg/ml\n2 mg/ml",
+      "Intradérmica": "20 mg/ml\n2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefadroxilo (Duracef)",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefalexina (Kefloridina cápsula en SSF)",
+      "Intraepidérmica (prick)": "20 mg/ml\n2 mg/ml",
+      "Intradérmica": "20 mg/ml\n2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefalotina (Keflin)",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefamandol (Mandokef)",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefazolina (Kurgan Cefamazin)",
+      "Intraepidérmica (prick)": "20mg/ml 2 mg/ml",
+      "Intradérmica": "20 mg/ml\n2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefepima",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefixima",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefonicid (Monocid)",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefotaxima (Claforan)",
+      "Intraepidérmica (prick)": "20mg/ml 2 mg/ml",
+      "Intradérmica": "20 mg/ml\n2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefoxitina (Mefoxitin Cefaxicima)",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefprozil (Brisoral Arzimol)",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ceftazidima (Fortam)",
+      "Intraepidérmica (prick)": "20 mg/ml\n2 mg/ml",
+      "Intradérmica": "20 mg/ml\n2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ceftriaxona (Rocephin)",
+      "Intraepidérmica (prick)": "20 mg/ml\n2 mg/ml",
+      "Intradérmica": "20 mg/ml\n2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cefuroxima (Curoxima)",
+      "Intraepidérmica (prick)": "20 mg/ml\n2 mg/ml",
+      "Intradérmica": "20 mg/ml\n2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Celulosa microcristalina (excipiente Almax forte – Almirall)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Cetirizina",
+      "Intraepidérmica (prick)": "1 mg/ml\n10 mg/ml",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Cetuximab",
+      "Intraepidérmica (prick)": "500 µg/ml",
+      "Intradérmica": "5 - 50 - 500 µg/ml"
+    },
+    {
+      "Nombre medicamento": "Cianocobalamina = vitamina B12",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "5-50 µg/ml\n1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ciclochem (Ciclopirox) polvo 1%",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Ciclofosfamida",
+      "Intraepidérmica (prick)": "1 mg/ml\n10 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ciclopléjico (Colircusi)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cimetidina (Tagamet Mansal)",
+      "Intraepidérmica (prick)": "4 mg/ml",
+      "Intradérmica": "0.1-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cincocaína (Scheriproct)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Ciprofloxacino (Rigorán Baycip)",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "0.02 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cisatracurio",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "0.2-0.002 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cisordinol (Zuclopentixol)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.02 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cisplatino",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "0,01 - 0,1 - 1 mg/ml\nDil salino prick 1/1.000, 1/100, 1/10"
+    },
+    {
+      "Nombre medicamento": "Citanest (Prilocaína)",
+      "Intraepidérmica (prick)": "",
+      "Intradérmica": "0.3-3 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Citarabina (preparado en Farmacia)",
+      "Intraepidérmica (prick)": "4 µg/ml",
+      "Intradérmica": "0.04 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Citicolina = somazina",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "100 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Citiolona (Mucorex)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Citrato trisódico",
+      "Intraepidérmica (prick)": "",
+      "Intradérmica": "1-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Claritromicina (Klacid) disolver en agua destilada!!",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": "0,05 - 0,01 - 1 mg/ml\n1/1.000 - 1/3.000"
+    },
+    {
+      "Nombre medicamento": "Clemastina (Tavegil)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Clenbuterol (Spiropent jarabe)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Clindamicina (Dalacin)",
+      "Intraepidérmica (prick)": "150 mg/ml",
+      "Intradérmica": "15 mg/ml\n1,5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Clormetiazol (Distraneurine)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Clomipramina (Anafranil)",
+      "Intraepidérmica (prick)": "TC 12.5 mg/ml",
+      "Intradérmica": "Irrit 1/100"
+    },
+    {
+      "Nombre medicamento": "Cloperastina (Flutox)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Cloranfenicol (Chloromycetin Normofenicol)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "10-20 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Clorazepato dipotásico (Tranxilium)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Clordiazepóxido (Librium)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Maleato de clorfenamina (Bisolgrip)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Clorhexidina (Hibimax)",
+      "Intraepidérmica (prick)": "0.0005%",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Acetato de clorhexidina (excipiente Almax forte – Almirall Prodesfarma)",
+      "Intraepidérmica (prick)": "5-20%",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Clorhidrato de morfina 1%",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0,001-0,0001 mg/ml\n0,01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Clorpromazina (Largactil)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "0.001 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cloruro de mercurio (ver Mercuriales)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1%-1‰"
+    },
+    {
+      "Nombre medicamento": "Cloruro mórfico",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0,001-0,0001 mg/ml\n0,01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cloxacilina (Orbenin)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cobalto",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Cobre",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Cocarboxilasa (vial Nervobion)",
+      "Intraepidérmica (prick)": "",
+      "Intradérmica": "0.5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Codeína (Codeisan)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Colágeno = implante de colágeno 35 mg/ml (Zyderm I)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "TC"
+    },
+    {
+      "Nombre medicamento": "Colimicina (colistina metanesulfonato)",
+      "Intraepidérmica (prick)": "250.000 UI/ml",
+      "Intradérmica": "2.500 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Coramina",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "Dil 1/100"
+    },
+    {
+      "Nombre medicamento": "Cotrimoxazol",
+      "Intraepidérmica (prick)": "80 mg/ml",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Cremophor EL",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cromo (dicromato potásico)",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Dalamon (cobalamida piridoxina tiamida)",
+      "Intraepidérmica (prick)": "",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Dalteparina (Fragmin-Boxolo)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000, 1/10\n1/10 (no inmediata)"
+    },
+    {
+      "Nombre medicamento": "Danaparoide",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000, 1/10\n1/10 (no inmediata)"
+    },
+    {
+      "Nombre medicamento": "Deferoxamina (Desferin): disolver hasta 50 mg/ml en agua destilada. Diluciones para id en SSF",
+      "Intraepidérmica (prick)": "50 mg/ml (en agua bidestilada)",
+      "Intradérmica": "0.05 - 0.5 - 5 mg/ml (en SSF)"
+    },
+    {
+      "Nombre medicamento": "Deflazacort (Zamene - Dezacor)",
+      "Intraepidérmica (prick)": "10-20 mg/ml\n22 mg/ml",
+      "Intradérmica": "--"
+    },
+    {
+      "Nombre medicamento": "Desirudina",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/100"
+    },
+    {
+      "Nombre medicamento": "Dexametasona (Fortecortin)",
+      "Intraepidérmica (prick)": "4 mg/ml",
+      "Intradérmica": "0.04-0.4 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Maleato de dexclorfeniramina (Polaramine)",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "0.005-0.05 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Dexketoprofeno (Enantyum)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100-1/10"
+    },
+    {
+      "Nombre medicamento": "Dexrazoxano",
+      "Intraepidérmica (prick)": "1/10",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Dextrometorfano (Romilar)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Diacetato de dibenciletilendiamina (Benzatina) En agua destilada",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Diacetil midecamicina (Myoxam Momicine etc.)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Diacetil midecamicina (Normicina)",
+      "Intraepidérmica (prick)": "60 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Diazepam (Valium)",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Diclofenaco sódico (Voltaren)",
+      "Intraepidérmica (prick)": "25 mg/ml",
+      "Intradérmica": "1-2.5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Difenhidramina (Benadryl Soñodor)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Digoxina",
+      "Intraepidérmica (prick)": "0.25 mg/ml",
+      "Intradérmica": "0.00025 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Dihydergot (mesilato de dihidroergotamina)",
+      "Intraepidérmica (prick)": "1/20",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Dimetilpolisiloxano 25% (excipiente Almax forte – Almirall)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Diosmina (Daflon)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Dipirona magnésica = metamizol (Nolotil)",
+      "Intraepidérmica (prick)": "400 mg/ml",
+      "Intradérmica": "1 mg/ml\n4-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Dipirona sódica (Neo-melubrina)",
+      "Intraepidérmica (prick)": "500 mg/ml",
+      "Intradérmica": "1-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Diprivan (Propofol)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0,1-1 mg/ml\n1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Docetaxel",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "0.1, 0.1, 1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Dolantina (petidina o meperidina)",
+      "Intraepidérmica (prick)": "0.5-5 mg/ml (irrit?)",
+      "Intradérmica": "0.0005-0.005 mg/ml (irrit?)"
+    },
+    {
+      "Nombre medicamento": "Dolasetron",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "2-20 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Dorzolamida (Trusopt)",
+      "Intraepidérmica (prick)": "TC = 20 mg/ml",
+      "Intradérmica": "0.02 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Doxiciclina (Vibravenosa)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Efedrina",
+      "Intraepidérmica (prick)": "25 mg/ml",
+      "Intradérmica": "0.25 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Elcatonina – CEPA",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100, 1/10"
+    },
+    {
+      "Nombre medicamento": "Enalaprilat MSD (Renitec Dabonal etc.)",
+      "Intraepidérmica (prick)": "TC = 1 mg/ml",
+      "Intradérmica": "0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Enoxaparina (Clexane) (10.000 UI en jeringa de 1 cc)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000, 1/10\n1/10 (no inmediata)"
+    },
+    {
+      "Nombre medicamento": "Epinefrina (adrenalina)",
+      "Intraepidérmica (prick)": "25 mg/ml",
+      "Intradérmica": "0.25 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Epontol",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Eritromicina (Pantomicina) (disolver con agua destilada)",
+      "Intraepidérmica (prick)": "10 mg/ml\n50 mg/ml",
+      "Intradérmica": "0,1 - 1 - 10 mg/ml\n0,05 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Eritrosina",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "1 mg/ml\n1,5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Escopolamina",
+      "Intraepidérmica (prick)": "0.5 mg/ml",
+      "Intradérmica": "0.005 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Esomeprazol",
+      "Intraepidérmica (prick)": "40 mg/ml",
+      "Intradérmica": "0.04 - 0.4 - 4 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Espectinomicina (Kempi)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Espiramicina (Rovamycine)",
+      "Intraepidérmica (prick)": "TC\n10 mg/ml\n100 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Éster bencílico del ácido nicotínico",
+      "Intraepidérmica (prick)": "0.001 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Estradiol (Progynon)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Estreptomicina",
+      "Intraepidérmica (prick)": "1 mg/ml\n200 mg/ml",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Estreptoquinasa (Streptase)",
+      "Intraepidérmica (prick)": "50.000 UI/ml",
+      "Intradérmica": "50-100 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Etambutol (Myambutol)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Etamsilato = Hemo 141",
+      "Intraepidérmica (prick)": "TC = 125 mg/ml",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Etanercept",
+      "Intraepidérmica (prick)": "25 mg/ml",
+      "Intradérmica": "0.1 - 1 - 5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Etilefrina (Efortil)",
+      "Intraepidérmica (prick)": "",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Etoxisclerol (Polidocanol)",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Etomidato",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "0.2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Eucaliptol",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Eufilina (teofilina)",
+      "Intraepidérmica (prick)": "TC = 19.32 mg/ml",
+      "Intradérmica": "Dilución 1/100"
+    },
+    {
+      "Nombre medicamento": "Excipientes de Almax forte (ver sorbitol, dimetilpolisiloxano, clorhexidina, celulosa, carboximetilcelulosa)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Factor estimulante de colonias de granulocitos (G-CSF)",
+      "Intraepidérmica (prick)": "100 - 200 - 400 µg/ml",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Factor estimulante de colonias de granulocitos-macrófagos (GM-CSF)",
+      "Intraepidérmica (prick)": "100 - 200 - 400 µg/ml",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Famotidina (Tamin)",
+      "Intraepidérmica (prick)": "10 mg/ml\n4 mg/ml",
+      "Intradérmica": "0,1-0,1 mg/ml\n0,04-0,4 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fansidar (pirimetamina + sulfadoxina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Fenergan (prometazina)",
+      "Intraepidérmica (prick)": "25 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fenilbutazona (butazolidina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fenilefrina",
+      "Intraepidérmica (prick)": "25 mg/ml\n100 mg/ml",
+      "Intradérmica": "1 mg/ml\n0,25 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fenitoína sódica = hidantoína",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": "0.05 - 0.5 - 5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fenobarbital",
+      "Intraepidérmica (prick)": "200 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fentanilo (Fentanest)",
+      "Intraepidérmica (prick)": "0.05 mg/ml",
+      "Intradérmica": "0,0005-0,005 mg/ml\n0,005 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fentolamina (Regitine)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Gluconato férrico sódico (Ferlecit)",
+      "Intraepidérmica (prick)": "12.5 mg/ml",
+      "Intradérmica": "1/1.000 - 1/100"
+    },
+    {
+      "Nombre medicamento": "Sulfato ferroso (Fero-Gradumet)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Filgrastim",
+      "Intraepidérmica (prick)": "300 µg/ml",
+      "Intradérmica": "300 µg/ml"
+    },
+    {
+      "Nombre medicamento": "Fluconazol (Diflucan)",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "0.002-0.02 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Flunarizina (Flurpax)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Flunitrazepam (Rohypnol)",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fluoresceína",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000"
+    },
+    {
+      "Nombre medicamento": "5-fluorouracilo",
+      "Intraepidérmica (prick)": "0.001-1 mg/ml",
+      "Intradérmica": "0.01 - 0.1 - 1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fluoxetina (Adofen Prozac)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Fluticasona (Flixonase gotas nasales)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Hormona folicular",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fondaparinux",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "TC"
+    },
+    {
+      "Nombre medicamento": "Forane (Isoflurano)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000"
+    },
+    {
+      "Nombre medicamento": "Formaldehído 1% en agua",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/50.000"
+    },
+    {
+      "Nombre medicamento": "Formol (ver formaldehído)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10.000"
+    },
+    {
+      "Nombre medicamento": "Fosfomicina (fosfocina)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fosinopril sódico (Tenso-stop)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Fraxiparina (nadroparina cálcica)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/10\n1/10 (no inmediata)"
+    },
+    {
+      "Nombre medicamento": "Fumarato sódico y ácido fólico (Foliferron)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Furosemida (Seguril)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Gadobenato de dimeglumina (Multihance)",
+      "Intraepidérmica (prick)": "1/1",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10\n1/1.000 - 1/100 - 1/10 - 1/1"
+    },
+    {
+      "Nombre medicamento": "Gadodiamida (Omniscan)",
+      "Intraepidérmica (prick)": "1/1",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10 - 1/1"
+    },
+    {
+      "Nombre medicamento": "Gadopentetato de dimeglumina (Magnograf)",
+      "Intraepidérmica (prick)": "1/1",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10 - 1/1"
+    },
+    {
+      "Nombre medicamento": "Gadoterato",
+      "Intraepidérmica (prick)": "1/1",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10 - 1/1"
+    },
+    {
+      "Nombre medicamento": "Gadoteridol (Prohance)",
+      "Intraepidérmica (prick)": "1/1",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10\n1/1.000 - 1/100 - 1/10 - 1/1"
+    },
+    {
+      "Nombre medicamento": "Galantamina (Reminyl)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Gamma OH (sol. madre 1/50)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "¼ sol. madre"
+    },
+    {
+      "Nombre medicamento": "Inmunoglobulina humana",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ganciclovir (Cymevene)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Gantrisin (Sulfisoxazol)",
+      "Intraepidérmica (prick)": "200 mg/ml",
+      "Intradérmica": "10-20 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Gelatina (Gelafundina…)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100 - 1/10"
+    },
+    {
+      "Nombre medicamento": "Gentamicina (Genta Gobens Gevramycin)",
+      "Intraepidérmica (prick)": "40 mg/ml",
+      "Intradérmica": "4 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Glifenano (Glafenina sol. hidroalcohólica)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Gluconato de calcio",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1/10.000"
+    },
+    {
+      "Nombre medicamento": "Glutaraldehído (Instrunet esporicida)",
+      "Intraepidérmica (prick)": "TC y dil 1/1.000 - 1/100 - 1/10",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Gomenol (Eucaliptol)",
+      "Intraepidérmica (prick)": "",
+      "Intradérmica": "0.12-1.2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Gomenol (diluy. Combitórax Ampi)",
+      "Intraepidérmica (prick)": "",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Granisetron",
+      "Intraepidérmica (prick)": "1 mg/ml\n1-10 mg/ml",
+      "Intradérmica": "0,1-0,01 mg/ml\n0,1-1 mg/ml\n0,1-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Guaifenesina",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Heparina sódica",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/100\n1/10 (no inmediata)"
+    },
+    {
+      "Nombre medicamento": "Hialuronidasa (Kinaden)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "100 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Hidantoína = fenitoína sódica",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": "0.05 - 0.5 - 5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Hidroclorotiazida (Hidrosaluretil Esidrex)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Hidrocortisona (Actocortina)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "1-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "4-hidroperoxi-ciclofosfamida",
+      "Intraepidérmica (prick)": "0.001 mg/ml",
+      "Intradérmica": "0.0001-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Hidroxiprogesterona (Proluton)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Hidroxizina",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Hierro sacarosa (Venofer)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.02 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Hierro sorbitol (Yectofer y Yectofer Compuesto)",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": "1/1.000 - 1/100"
+    },
+    {
+      "Nombre medicamento": "Bromuro de hioscina (Buscapina)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Hipromelosa (Aquolens)",
+      "Intraepidérmica (prick)": "3 mg/ml",
+      "Intradérmica": "1/100 - 1/10"
+    },
+    {
+      "Nombre medicamento": "HMG-lepori (hormona foliculoestimulante 75 UI + hormona luteinizante –LH–)",
+      "Intraepidérmica (prick)": "75 UI/ml",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Hormona adrenocorticotrópica (ACTH)",
+      "Intraepidérmica (prick)": "10 UI/ml",
+      "Intradérmica": "0.1 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Hormona foliculoestimulante + hormona luteinizante (Pergonal 500)",
+      "Intraepidérmica (prick)": "Dil 1/10",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Hormona luteinizante",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Hormona parotídea (Sialotina)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Hydergina (dihidroergotoxina)",
+      "Intraepidérmica (prick)": "",
+      "Intradérmica": "0.003-0.03 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ibuprofeno (Algiasdin Neobrufen Altior…)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Imagopaque (Iopentol)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Imipenem (Tienam)",
+      "Intraepidérmica (prick)": "0,5 mg/ml\n1 mg/ml",
+      "Intradérmica": "0,5 mg/ml\n1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Clorhidrato de imipramina (Tofranil)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Indapamida (Tertensif Extur)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Indometacina (Inacid)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Inferon B12 (vial B12 solo)",
+      "Intraepidérmica (prick)": "500 µg/ml",
+      "Intradérmica": "50 µg/ml"
+    },
+    {
+      "Nombre medicamento": "Infliximab",
+      "Intraepidérmica (prick)": "1 mg/ml\n10 mg/ml",
+      "Intradérmica": "1 mg/ml\n0,1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Insulina (recombinante, análoga, porcina o bovina)",
+      "Intraepidérmica (prick)": "100 UI/ml",
+      "Intradérmica": "5 UI/ml\n1 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Interferón",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/100"
+    },
+    {
+      "Nombre medicamento": "Inzitan (dexametasona + lidocaína + tiamina + cianocobalamina + Tween 80)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000"
+    },
+    {
+      "Nombre medicamento": "Iobitridol",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10 - 1/1"
+    },
+    {
+      "Nombre medicamento": "Iodixanol",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10 - 1/1"
+    },
+    {
+      "Nombre medicamento": "Iohexol (Omnitrast)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10 - 1/1\n1/1.000 - 1/100 - 1/10\n1/10"
+    },
+    {
+      "Nombre medicamento": "Iomeprol",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10 - 1/1"
+    },
+    {
+      "Nombre medicamento": "Iopamidol (Iopamiro)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10 - 1/1\n1/10"
+    },
+    {
+      "Nombre medicamento": "Iopentol (Imagopaque)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Iopromida (Clarograf 300)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10"
+    },
+    {
+      "Nombre medicamento": "Iotalamato de meglumina (Vascoray)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Iotrolan",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Iotroxato de meglumina (Bilisegrol)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/50"
+    },
+    {
+      "Nombre medicamento": "Ioversol (Optiray 300)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100\n1/10"
+    },
+    {
+      "Nombre medicamento": "Ioxaglato de meglumina (Hexabrix)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10 - 1/1"
+    },
+    {
+      "Nombre medicamento": "Irbesartan (Karvea Aprovel)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Isoflurano (Forane)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Isoniazida (Cemidon)",
+      "Intraepidérmica (prick)": "60 mg/ml",
+      "Intradérmica": "0.6 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Itraconazol (Canadiol)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Josamicina (Josamina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Vitamina K",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ketamina",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "0.5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ketoconazol (Panfungol)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Ketolar (Ketamina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "0.5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ketoprofeno (Orudis)",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ketorolaco trometamina (Droal)",
+      "Intraepidérmica (prick)": "30 mg/ml",
+      "Intradérmica": "0.3 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Lactato ferroso",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.01 - 0.1 - 1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Lansoprazol (Estomil Opiren..)",
+      "Intraepidérmica (prick)": "10 mg/ml\n15 mg/ml\n30 mg/ml",
+      "Intradérmica": "0,015-1,5 mg/ml\n0,15-1,5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Lantanon (Mianserina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Latanoprost (Xalatan)",
+      "Intraepidérmica (prick)": "50 µg/ml",
+      "Intradérmica": "0.05 µg/ml"
+    },
+    {
+      "Nombre medicamento": "Lenograstim",
+      "Intraepidérmica (prick)": "",
+      "Intradérmica": "TC"
+    },
+    {
+      "Nombre medicamento": "Lepidurina",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "TC\n1/1.000 - 1/100"
+    },
+    {
+      "Nombre medicamento": "Acetato de leuprorelina (D.C.I.) (Procrin)",
+      "Intraepidérmica (prick)": "1 mg/0.2 ml",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Levofloxacino (Tavanic)",
+      "Intraepidérmica (prick)": "TC = 5 mg/ml",
+      "Intradérmica": "0.05 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Levotiroxina (Levothroid Dexnon Thyroxine Leo)",
+      "Intraepidérmica (prick)": "100 µg/ml",
+      "Intradérmica": "1 µg/ml"
+    },
+    {
+      "Nombre medicamento": "Lidocaína",
+      "Intraepidérmica (prick)": "TC\n10 mg/ml",
+      "Intradérmica": "1/10\n1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Lincomicina (Lincocin)",
+      "Intraepidérmica (prick)": "30 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Lisozima",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Carbonato de litio (Plenur)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Loperamida",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "0.2-0.02 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Lormetazepam (Noctamid)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Hormona luteinizante (Bayer)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Pidolato de magnesio",
+      "Intraepidérmica (prick)": "12 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Manitol 20%",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "0.2% - 1/100 - 1/10"
+    },
+    {
+      "Nombre medicamento": "Meloxicam (Movalis)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Meperidina",
+      "Intraepidérmica (prick)": "25 mg/ml",
+      "Intradérmica": "0.0025 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Mepivacaína (Scandicain Scandinibsa)",
+      "Intraepidérmica (prick)": "20 mg/ml\n10 mg/ml",
+      "Intradérmica": "2 mg/ml\n1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Meprobamato (Dapaz)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Merbromina (Mercurocromo)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.02 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Cloruro de mercurio",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1%-1‰"
+    },
+    {
+      "Nombre medicamento": "Meropenem",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Mertiolato (Timerosal)",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Metabisulfito sódico",
+      "Intraepidérmica (prick)": "1%\n10 mg/ml",
+      "Intradérmica": "10 mg/ml\n0,1%"
+    },
+    {
+      "Nombre medicamento": "Metacolina (Mecholyl)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Metacresol",
+      "Intraepidérmica (prick)": "3 mg/ml",
+      "Intradérmica": "3 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Metadona",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Metamizol (Dipirona Mg Nolotil)",
+      "Intraepidérmica (prick)": "400 mg/ml",
+      "Intradérmica": "1 mg/ml\n4-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Metohexital",
+      "Intraepidérmica (prick)": "0.01 mg/ml",
+      "Intradérmica": "--"
+    },
+    {
+      "Nombre medicamento": "Metilprednisolona (Urbason)",
+      "Intraepidérmica (prick)": "40 mg/ml\n2-20 mg/ml\n40 mg/ml",
+      "Intradérmica": "0,4-4 mg/ml\n0,2-2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Metimazol (Tiamazol Tirodril)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Metocarbamol (Robaxin)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Metotrexato (preparado en farmacia)",
+      "Intraepidérmica (prick)": "10 mg/ml\n25 mg/ml",
+      "Intradérmica": "0.1 mg/ml 1/100"
+    },
+    {
+      "Nombre medicamento": "Metoxamina Wellcome (clorhidrato de metoxamina)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.2-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Metronidazol (Flagyl)",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Mianserina (Lantanon)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Miconazol 2% polvo (Daktarin)",
+      "Intraepidérmica (prick)": "1 g/ml(P/V)",
+      "Intradérmica": "5 mg/ml (P/V)"
+    },
+    {
+      "Nombre medicamento": "Midazolam (Dormicum)",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "0,05 mg/ml\n0,5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Minociclina (Minocin)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Misoprostol (Cytotec)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Mitomicina (preparado en farmacia)",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Mivacurio (Mivacron)",
+      "Intraepidérmica (prick)": "0.2 mg/ml",
+      "Intradérmica": "0.002 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Morfina",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "0,01 mg/ml\n0,0001 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Mostaza de fosforamida",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Moxifloxacino (Actira)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Mucopolisacaridasa (Thiomucase)",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "N-acetilcisteína (Fluimucil)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Nabumetona (Relif)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Nadroparina cálcica (Fraxiparina) (950 UI en jeringa de 1 cc)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/10\n1/10 (no inmediata)"
+    },
+    {
+      "Nombre medicamento": "Nafazolina (Privina)",
+      "Intraepidérmica (prick)": "0.5 mg/ml",
+      "Intradérmica": "0.005 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Nafcilina",
+      "Intraepidérmica (prick)": "250 mg/ml",
+      "Intradérmica": "0.025 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Naloxona",
+      "Intraepidérmica (prick)": "0.4 mg/ml",
+      "Intradérmica": "0.004 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Naproxeno (Naprosyn Proxen Antalgin)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Natalizumab",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.002 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Neomicina (gotas para los ojos)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Neosidantoína",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Neostigmina (Prostigmina)",
+      "Intraepidérmica (prick)": "0.5 mg/ml",
+      "Intradérmica": "0.005 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Netilmicina (Netocina)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Nicotinamida (Nicobion)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Nicotínico (éster bencílico del ácido)",
+      "Intraepidérmica (prick)": "0.001 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Nifedipino (Adalat)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Nimesulida (Guaxan)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Sulfato de níquel",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Nitrofurantoína (furantoína)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Nizatidina (Distaxid)",
+      "Intraepidérmica (prick)": "10 mg/ml\n150 mg/ml",
+      "Intradérmica": "0,001-0,01 mg/ml\n1,5-0,15 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Noradrenalina “Palex”",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Norfloxacino",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Octocaína 2% (lidocaína con norepinefrina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Ofloxacino (Surnox)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Omalizumab",
+      "Intraepidérmica (prick)": "12.5-125 mg/ml",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Omeprazol (Losec Mopral)",
+      "Intraepidérmica (prick)": "4 mg/ml",
+      "Intradérmica": "0.04-4 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ondansetron (Zofran Yatrox)",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Orgoteína (Peroxinorm Ontosein)",
+      "Intraepidérmica (prick)": "4 mg/ml",
+      "Intradérmica": "0.0004-0.004 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Oxaliplatino",
+      "Intraepidérmica (prick)": "0.1-10 mg/ml",
+      "Intradérmica": "0.001 - 0.01 - 0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Oximetazolina (Respir)",
+      "Intraepidérmica (prick)": "0.05 mg/ml",
+      "Intradérmica": "0.0005 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Oxitetraciclina (Terramicina)",
+      "Intraepidérmica (prick)": "1-50 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Paclitaxel",
+      "Intraepidérmica (prick)": "6 mg/ml",
+      "Intradérmica": "0.06-0.6 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Palonosetron",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Pantoprazol",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.4-4 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Parametasona (Cortidene Triniol)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.2-2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Peginterferon alfa-2a (Pegasys)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000, 1/100"
+    },
+    {
+      "Nombre medicamento": "Penicilina (Bencilpenicilina)",
+      "Intraepidérmica (prick)": "10.000 UI/ml",
+      "Intradérmica": "10.000 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Penicilina benzatina (Benzetacil)",
+      "Intraepidérmica (prick)": "10.000 UI/ml",
+      "Intradérmica": "10.000 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Penicilina G sódica (Unicilina)",
+      "Intraepidérmica (prick)": "10.000 UI/ml",
+      "Intradérmica": "10.000 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Penicilina procaína (Aqucilina)",
+      "Intraepidérmica (prick)": "10.000 UI/ml",
+      "Intradérmica": "10.000 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Pentazocina (Sosegon)",
+      "Intraepidérmica (prick)": "30 mg/ml",
+      "Intradérmica": "0.3 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Pentotal",
+      "Intraepidérmica (prick)": "200 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Pentoxifilina (Hemovas)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Fosfolipasa A",
+      "Intraepidérmica (prick)": "0.01 µg/ml",
+      "Intradérmica": "0.01 µg/ml"
+    },
+    {
+      "Nombre medicamento": "Pimozida (Orap)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Piperacilina (Pipril)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "20 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Pirazinamida",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Piriglutina (Conductasa)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Piroxicam (Feldene)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Polimixina",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100 irritante"
+    },
+    {
+      "Nombre medicamento": "Polisorbato 80 = Tween 80",
+      "Intraepidérmica (prick)": "0,15 mg/ml\n0,04 mg/ml",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10\n1/100 - 1/10 - 1/1"
+    },
+    {
+      "Nombre medicamento": "Polivinilpirrolidona = povidona (excipiente Cortidene)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Povidona yodada (Betadine)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000"
+    },
+    {
+      "Nombre medicamento": "Prednisolona (Solu-Dacortin)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Prednisona (Dacortin)",
+      "Intraepidérmica (prick)": "10 mg/ml\n13 mg/ml",
+      "Intradérmica": "10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Prilocaína 5% hiperbárica",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Pro-efferalgan (clorhidrato de proparacetamol)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Procaína (novocaína)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Progesterona (Depo-Progevera)",
+      "Intraepidérmica (prick)": "150 mg/ml",
+      "Intradérmica": "0.1-0.2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Progesterona (dilución con blanco, 1 mg/ml)",
+      "Intraepidérmica (prick)": "0.1 - 0.2 - 0.4 - 1 mg/ml",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Progesterona (pomada Progestogel)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Prometazina (Fenergán)",
+      "Intraepidérmica (prick)": "25 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Propafenona (Rytmonorm)",
+      "Intraepidérmica (prick)": "3.5 mg/ml",
+      "Intradérmica": "0.035 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Propofol (Diprivan)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0,1-1 mg/ml\n1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Protamina Rovi (Sulfato de protamina)",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Provastatina (Lipemol)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Pseudoefedrina",
+      "Intraepidérmica (prick)": "25 mg/ml",
+      "Intradérmica": "0.25 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Quimopapaína (Chymodiactin)",
+      "Intraepidérmica (prick)": "2 mg/ml\n10 mg/ml",
+      "Intradérmica": "0,2 UI/ml\n0,1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Quimotripsina",
+      "Intraepidérmica (prick)": "52.5 UI/ml",
+      "Intradérmica": "52.5 UI/ml"
+    },
+    {
+      "Nombre medicamento": "Sulfato de quinina",
+      "Intraepidérmica (prick)": "3 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ranitidina (Zantac Toriol)",
+      "Intraepidérmica (prick)": "10 mg/ml\n25 mg/ml",
+      "Intradérmica": "0,01-1 mg/ml\n0,25-2,5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Rabeprazol",
+      "Intraepidérmica (prick)": "10 mg/ml\n20 mg/ml",
+      "Intradérmica": "0,01-1 mg/ml\n0,2-2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Remifentanilo",
+      "Intraepidérmica (prick)": "0.05 mg/ml",
+      "Intradérmica": "0.0005 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Rheomacrodex glucosa",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Rheomacrodex salino",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Ribavirina (Rebetol Virazid)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Ribostamicina (Ribastamin)",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Rifamicina",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Rifampicina (Rifaldin)",
+      "Intraepidérmica (prick)": "60 mg/ml TC",
+      "Intradérmica": "0,06-0,6 mg/ml\n1/10.000 - 1/1.000 - 1/100"
+    },
+    {
+      "Nombre medicamento": "Rifocina (Rifamicina)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Rituximab",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Rocuronio",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1-0.01 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ropivacaína",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Roxitromicina (Rotramin Rulide)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Salazopirina (Sulfasalazina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Salbutamol (Ventolin)",
+      "Intraepidérmica (prick)": "0.5 mg/ml",
+      "Intradérmica": "0.005-0.05 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Sandosten calcio",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Sargramostim",
+      "Intraepidérmica (prick)": "100-250 µg/ml",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Sauran (citicolina = somazina)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "100 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Solución de sorbitol 70% (Sorbex 220) (excipiente Almax forte – Almirall Prodesfarma)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "--"
+    },
+    {
+      "Nombre medicamento": "Succinilcolina = Suxametonio (Anectine)",
+      "Intraepidérmica (prick)": "10 mg/ml\n50 mg/ml",
+      "Intradérmica": "0,05 - 0,5 - 5 mg/ml\n0,1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Suero equino (antirrábico antiofídico)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10 - 1/100"
+    },
+    {
+      "Nombre medicamento": "Sufentanilo",
+      "Intraepidérmica (prick)": "0.005 mg/ml",
+      "Intradérmica": "0.0005 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Sulfadiazina",
+      "Intraepidérmica (prick)": "1-2-5 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Sulfametoxazol (vial Soltrim)",
+      "Intraepidérmica (prick)": "200-400 mg/ml",
+      "Intradérmica": "10-20 mg/ml\n0,03 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Sulfasalazina (Salazopirina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Sulfato ferroso",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.01-0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Sulpirida",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Sumatriptán (Imigran)",
+      "Intraepidérmica (prick)": "0.12 mg/ml",
+      "Intradérmica": "1/1.000"
+    },
+    {
+      "Nombre medicamento": "Suxametonio = succinilcolina (Anectine)",
+      "Intraepidérmica (prick)": "10 mg/ml\n50 mg/ml",
+      "Intradérmica": "0,05 - 0,5 - 5 mg/ml\n0,1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Suxametonio (Mioflex)",
+      "Intraepidérmica (prick)": "10 mg/ml\n50 mg/ml",
+      "Intradérmica": "0,05 - 0,5 - 5 mg/ml\n0,1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tantum-ciclina (tetraciclina + bencidamina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Tartrazina",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tazocel (piperacilina 4 g + tazobactam 0.5 g)",
+      "Intraepidérmica (prick)": "4.5 mg/ml",
+      "Intradérmica": "4.5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Teicoplanina (Targocid)",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "0,05 - 0,5 - 1 mg/ml\n75 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tenoxicam (Reutenox)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Teofilina (Eufilina)",
+      "Intraepidérmica (prick)": "19.32 mg/ml",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Tepazepan (sulpirida + diazepam + piridoxina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Tetraciclina",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tetracaína (anestesia tópica Braun 1%)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Tetracosactida (Nuvacthen-depot)",
+      "Intraepidérmica (prick)": "0.5-0.1 mg/ml",
+      "Intradérmica": "0.0005-0.001 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tetrazepam (Myolastan)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Thalamonal (fentanilo 0.05 + droperidol 2.5)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000"
+    },
+    {
+      "Nombre medicamento": "Timerosal (Mertiolato)",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tiocol (proporcionado por laboratorio broncofenil)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "2.5-25 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tiocolchicósido (Coltramyl)",
+      "Intraepidérmica (prick)": "2 mg/ml",
+      "Intradérmica": "0.02 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tiamina = vitamina B1 (Benerva)",
+      "Intraepidérmica (prick)": "1-10 mg/ml",
+      "Intradérmica": "0,5-5 mg/ml\n1-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Ticarcilina",
+      "Intraepidérmica (prick)": "200 mg/ml",
+      "Intradérmica": "1/10"
+    },
+    {
+      "Nombre medicamento": "Tietilperazina (Torecan)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Timoftol (maleato de timolol)",
+      "Intraepidérmica (prick)": "5 mg/ml",
+      "Intradérmica": "0.05 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tinzaparina (Innohep)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000 - 1/10\n1/10 (no inmediata)"
+    },
+    {
+      "Nombre medicamento": "Tiopental sódico (Pentotal)",
+      "Intraepidérmica (prick)": "25 mg/ml",
+      "Intradérmica": "2,5 mg/ml\n0,25 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tobramicina",
+      "Intraepidérmica (prick)": "40 mg/ml",
+      "Intradérmica": "4 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tocilizumab",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Torecan (Tietilperazina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Tramadol (Adolonta)",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": "0.05-0.5 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Trastuzumab",
+      "Intraepidérmica (prick)": "21 mg/ml",
+      "Intradérmica": "0.21 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Triamcinolona (Trigon-depot)",
+      "Intraepidérmica (prick)": "40-4 mg/ml",
+      "Intradérmica": "0.4-4 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Trimetoprima (ampolla Soltrim)",
+      "Intraepidérmica (prick)": "10 mg/ml\n20 mg/ml",
+      "Intradérmica": "0.001 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tripsina (Chymar = tripsina + quimotripsina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Triptorelina (Decapeptyl)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/1.000"
+    },
+    {
+      "Nombre medicamento": "Trofimilina (fosfatidilcolina…cobalamina)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Tropicamida",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tropisetron",
+      "Intraepidérmica (prick)": "10 mg/ml",
+      "Intradérmica": "0.1-10 mg/ml"
+    },
+    {      "Nombre medicamento": "Tubocurarina",
+      "Intraepidérmica (prick)": "0.003 mg/ml",
+      "Intradérmica": "0.0003 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Tween 80 = polisorbato 80",
+      "Intraepidérmica (prick)": "0.15 mg/ml",
+      "Intradérmica": "1/1.000 - 1/100 - 1/10"
+    },
+    {
+      "Nombre medicamento": "(enviado por Lab Amiodarone Sanofi Winthrop",
+      "Intraepidérmica (prick)": "0.04 mg/ml",
+      "Intradérmica": "1/100 - 1/10 - 1/1"
+    },
+    {
+      "Nombre medicamento": "Industrie)",
+      "Intraepidérmica (prick)": "",
+      "Intradérmica": ""
+    },
+    {
+      "Nombre medicamento": "Uroquinasa",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "1/1.000 - 1/100"
+    },
+    {
+      "Nombre medicamento": "Urea",
+      "Intraepidérmica (prick)": "100 mg/ml",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Urofolitropina de alta pureza (Neo-Fertnorm)",
+      "Intraepidérmica (prick)": "75 UI/ml",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Vacuna difteria-tétanos-tos ferina",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Vacuna hepatitis B",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Vacuna meningocócica",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Vacuna varicela",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Vacuna tétanos-difteria",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Vacuna sarampión, paperas y rubéola (SPR)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Valaciclovir",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "–"
+    },
+    {
+      "Nombre medicamento": "Vancomicina (Diatracin)",
+      "Intraepidérmica (prick)": "50 mg/ml",
+      "Intradérmica": "0,005 mg/ml\n0,1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Varidasa (estreptoquinasa + estreptodornasa)",
+      "Intraepidérmica (prick)": "–",
+      "Intradérmica": "50 UI/Ml"
+    },
+    {
+      "Nombre medicamento": "Vecuronio (Norcuron)",
+      "Intraepidérmica (prick)": "4 mg/ml",
+      "Intradérmica": "0,4 mg/ml\n0,004-0,4"
+    },
+    {
+      "Nombre medicamento": "Vitamina B1 o tiamina (Benerva)",
+      "Intraepidérmica (prick)": "1-10 mg/ml",
+      "Intradérmica": "0,5-5 mg/ml\n1-10 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Vitamina B2 (riboflavina)",
+      "Intraepidérmica (prick)": "0.1-1 mg/ml",
+      "Intradérmica": "0.1-1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "X-prep",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "1/100"
+    },
+    {
+      "Nombre medicamento": "Clorhidrato de xilometazolina",
+      "Intraepidérmica (prick)": "1 mg/ml",
+      "Intradérmica": "0.001-0.1 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Xylonor 2% (lidocaína con norepinefrina)",
+      "Intraepidérmica (prick)": "20 mg/ml",
+      "Intradérmica": "0.2 mg/ml"
+    },
+    {
+      "Nombre medicamento": "Zyderm I (colágeno = implante de colágeno 35 mg/ml)",
+      "Intraepidérmica (prick)": "TC",
+      "Intradérmica": "TC"
+    }
+  ]
+}
